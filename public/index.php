@@ -29,42 +29,42 @@
 
     <!-- Icon Grid Section -->
     <section class="icon-grid">
-      <a href="/a.html" class="icon-item">
+      <a href="/a.php" class="icon-item">
         <img src="https://bloodistan17.pages.dev/pi-4/images/fireside.jpg" alt="Fireside Icon" />
         <p>Fireside</p>
       </a>
 
-      <a href="/a.html" class="icon-item">
+      <a href="/a.php" class="icon-item">
         <img src="https://bloodistan17.pages.dev/pi-4/images/wallet.jpg" alt="Wallet Icon" />
         <p>Wallet</p>
       </a>
 
-      <a href="/a.html" class="icon-item">
+      <a href="/a.php" class="icon-item">
         <img src="https://bloodistan17.pages.dev/pi-4/images/shop.jpg" alt="Shop Icon" />
         <p>Shop</p>
       </a>
 
-      <a href="/a.html" class="icon-item">
+      <a href="/a.php" class="icon-item">
         <img src="https://bloodistan17.pages.dev/pi-4/images/mine.jpg" alt="Mine Icon" />
         <p>Mine</p>
       </a>
 
-      <a href="/a.html" class="icon-item">
+      <a href="/a.php" class="icon-item">
         <img src="https://bloodistan17.pages.dev/pi-4/images/blockchain.jpg" alt="Blockchain Icon" />
         <p>Blockchain</p>
       </a>
 
-      <a href="/a.html" class="icon-item">
+      <a href="/a.php" class="icon-item">
         <img src="https://bloodistan16.pages.dev/pi2/chat.png" alt="Chat Icon" />
         <p>Chat</p>
       </a>
 
-      <a href="/a.html" class="icon-item">
+      <a href="/a.php" class="icon-item">
         <img src="https://bloodistan16.pages.dev/pi2/kyc.png" alt="KYC Icon" />
         <p>KYC</p>
       </a>
 
-      <a href="/a.html" class="icon-item">
+      <a href="/a.php" class="icon-item">
         <img src="https://bloodistan17.pages.dev/pi-4/images/profiles.jpg" alt="Profiles Icon" />
         <p>Profiles</p>
       </a>
